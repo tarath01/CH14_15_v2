@@ -11,9 +11,13 @@
 <h1>Trivia Game</h1>
 
 <span id="question"></span>
-
+<input type="radio" id="true" name="answer" value="true">
+<label for="true">True</label><br>
+<input type="radio" id="false" name="answer" value="false">
+<label for="false">False</label><br>
 <div class="search">
     <button onclick="loadQuestion()">Next Question</button>
+    <button onclick="checkAnswer()">Check Answer</button>
 </div>
 
 <p id="status"></p>
