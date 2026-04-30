@@ -4,7 +4,7 @@ const app = express();
 
 app.use(express.static(path.join(__dirname, "public")));
 
-app.get("/api",async (req, res) => {
+app.get("/trivia_api",async (req, res) => {
     try {
 
         const response = await fetch(`https://opentdb.com/api.php?amount=1&category=9&type=boolean`);
