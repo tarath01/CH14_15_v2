@@ -28,15 +28,16 @@ you that you must answer. <br>
 ## ScreenShots
 
 ## Main Page
-![Main Page](..)
+![Main Page](images/mainpage.png)
 
 -----------
 ## Validation
-![Validation]()
+![Correct](images/correct.png)
+![Incorrect](images/incorrect.png)
 
 ------------
 ## Cleared
-![Cleared]()
+![Cleared](images/cleared.png)
 
 ---------
 ### Maintainers
