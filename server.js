@@ -1,3 +1,12 @@
+/**
+ * @author Taylor Rath
+ * @summary This program is a trivia game, where it provides true/false
+ * questions for the user to answer.
+ * @date 04/30/2026
+ * @link: https://github.com/tarath01/CH14_15_v2
+ */
+
+
 const express = require("express");
 const path = require("path");
 const app = express();
@@ -25,7 +34,9 @@ app.get("/trivia_api",async (req, res) => {
         res.status(500).json({ error: "Server error: " + error.message });
     }
 });
-
+/**
+ * @class server host
+ */
 app.listen(3000, () => {
     console.log("Server running on http://localhost:3000");
 });
