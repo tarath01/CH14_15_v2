@@ -38,7 +38,7 @@ you that you must answer. <br>
 ------------
 ## Cleared
 ![Cleared](images/cleared.png)
-
+When new question is presented, the answers get cleared.
 ---------
 ### Maintainers
 [@tarath01](https://github.com/tarath01) Taylor Rath
