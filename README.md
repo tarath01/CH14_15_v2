@@ -8,7 +8,7 @@
   - [Main Page](#main-page)
   - [Validation](#validation)
   - [Cleared](#cleared)
-- [API Information](#api)
+- [API Information](#api-information)
 - [Maintainers](#maintainers)
 -----------
 
@@ -43,7 +43,6 @@ you that you must answer. <br>
 When new question is presented, the answers get cleared.
 ---------
 ## API Information
-
 [API Link](https://opentdb.com/api.php?amount=1&category=9&type=boolean)
 
 ----------------------
